@@ -7,7 +7,7 @@ Please use [Actions](https://github.com/dust-life/Free445-BOF/actions)
 
 ## Usage
 ```
-beacon> shell netstat -ano |findstr "445"
+beacon> shell netstat -ano |findstr "445"1
 [*] Tasked beacon to run: netstat -ano |findstr "445"
 [+] host called home, sent: 58 bytes
 [+] received output:
